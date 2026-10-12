@@ -1,17 +1,16 @@
 <!-- v3 · Tema RPG 8-bit · Repositório: github.com/Acert99/Acert99 · Troque SEU_LINKEDIN e SEU_EMAIL -->
-<!-- As imagens ficha.svg e missao.svg ficam na pasta assets/ deste repositório -->
+<!-- As imagens typing.svg, ficha.svg e missao.svg ficam na pasta assets/ deste repositório -->
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0b1e,55:2b1f6b,100:6c5ce7&height=240&section=header&text=Albert%20G%C3%B3es&fontSize=58&fontColor=b4ff39&fontAlignY=42&desc=PRESS%20START%20%E2%96%B6&descAlignY=64&descSize=16&animation=twinkling)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=2800&pause=900&color=B4FF39&center=true&vCenter=true&width=640&lines=%3E+Marketeiro+por+profissão;%3E+Vibecoder+por+hobby;%3E+Automatizando+meu+dia+a+dia;%3E+Carregando+DaVinci.exe..." alt="Typing SVG" />
+  <img src="./assets/typing.svg" width="100%" alt="Marketeiro por profissão, vibecoder por hobby" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-2B1F6B?style=for-the-badge&logo=linkedin&logoColor=B4FF39" /></a>
   <a href="https://instagram.com/volve.mkt"><img src="https://img.shields.io/badge/Volve-2B1F6B?style=for-the-badge&logo=instagram&logoColor=B4FF39" /></a>
   <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-2B1F6B?style=for-the-badge&logo=gmail&logoColor=B4FF39" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Acert99&label=JOGADORES&color=6c5ce7&style=for-the-badge" />
 </p>
 
 <p align="center">
